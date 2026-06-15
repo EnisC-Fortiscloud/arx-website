@@ -1,0 +1,13 @@
+{
+  "name": "Arx — Die Kraft-Liga",
+  "short_name": "Arx",
+  "description": "Logge deine Lifts, bekomme deinen Stärke-Tier und steig in der Liga auf.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0C0F",
+  "theme_color": "#0B0C0F",
+  "icons": [
+    { "src": "/assets/web-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/web-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
